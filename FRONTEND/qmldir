@@ -1,0 +1,26 @@
+module SIMSContent
+linktarget SIMSContentplugin
+optional plugin SIMSContentplugin
+classname SIMSContentPlugin
+typeinfo SIMSContent.qmltypes
+prefer :/qt/qml/SIMSContent/
+App 1.0 App.qml
+AdminLogin 1.0 AdminLogin.qml
+AddAttendance 1.0 AddAttendance.qml
+StudentMenu 1.0 StudentMenu.qml
+Screen01 1.0 Screen01.qml
+ViewCourses 1.0 ViewCourses.qml
+ViewProfile 1.0 ViewProfile.qml
+AddCourses 1.0 AddCourses.qml
+AddProgress 1.0 AddProgress.qml
+UpdateStudent 1.0 UpdateStudent.qml
+AddStudent 1.0 AddStudent.qml
+ViewProgress 1.0 ViewProgress.qml
+SecondWindow 1.0 SecondWindow.qml
+DeleteStudent 1.0 DeleteStudent.qml
+StudentLogin 1.0 StudentLogin.qml
+AdminMenu 1.0 AdminMenu.qml
+UpdatePassword 1.0 UpdatePassword.qml
+ViewAttendance 1.0 ViewAttendance.qml
+ViewStudents 1.0 ViewStudents.qml
+
