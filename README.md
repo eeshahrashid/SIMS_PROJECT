@@ -1,4 +1,4 @@
-Student Information Management System (SIMS)
+## **Student Information Management System (SIMS)**
 
 A full-stack desktop application built to manage student records, attendance, and academic performance in an educational institution. Designed for both administrators and students, SIMS offers a polished user interface and secure backend functionality to streamline data management.
 
