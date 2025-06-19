@@ -2,7 +2,7 @@
 
 A full-stack desktop application built to manage student records, attendance, and academic performance in an educational institution. Designed for both administrators and students, SIMS offers a polished user interface and secure backend functionality to streamline data management.
 
-Features
+**Features**
 	•	Student and Course Management – Add, edit, delete student records and assign them to courses
 	•	Real-Time Updates – View attendance and academic progress with live data
 	•	Authentication & Password Controls – Change and validate passwords with custom rules
@@ -11,7 +11,7 @@ Features
 	•	Modern Frontend – Built with Qt QML & Qt Design Studio for a smooth and responsive UI
 	•	Modular Codebase – Backend structured using C++ classes with clear separation of concerns
 
- Tech Stack
+ **Tech Stack**
 	•	Frontend: Qt QML, Qt Design Studio
 	•	Backend: C++ (modular class-based architecture)
 	•	Database: SQLite3
